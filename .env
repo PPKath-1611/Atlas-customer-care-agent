@@ -1,0 +1,2 @@
+VIDEOSDK_AUTH_TOKEN="your_videosdk_token_here"
+GOOGLE_API_KEY="your_google_api_key_here"
